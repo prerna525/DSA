@@ -1,1 +1,4 @@
-print("prerna")
+name="prerna"
+age=21
+print(name)
+print(age)
